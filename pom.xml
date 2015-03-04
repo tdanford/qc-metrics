@@ -33,6 +33,7 @@
   
   <modules>
     <module>qc-metrics-core</module>
+    <module>qc-metrics-external</module>
     <module>qc-metrics-cli</module>
   </modules>
   
